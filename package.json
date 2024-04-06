@@ -1,6 +1,6 @@
 {
   "name": "d1st-number-guessing",
-  "version": "1.0.3",
+  "version": "1.0.2",
   "description": "This is a number guessing game which is based on cli",
   "main": "index.js",
   "type": "module" ,
